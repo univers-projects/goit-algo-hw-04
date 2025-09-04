@@ -28,13 +28,13 @@ Benchmark three sorting algorithms in Python using `timeit` across multiple inpu
 
 ## Plots
 
-![sort_perf_random.png](sort_perf_random.png)
+![sort_perf_random.png](img/sort_perf_random.png)
 
-![sort_perf_sorted.png](sort_perf_sorted.png)
+![sort_perf_sorted.png](img/sort_perf_sorted.png)
 
-![sort_perf_reversed.png](sort_perf_reversed.png)
+![sort_perf_reversed.png](img/sort_perf_reversed.png)
 
-![sort_perf_nearly_sorted.png](sort_perf_nearly_sorted.png)
+![sort_perf_nearly_sorted.png](img/sort_perf_nearly_sorted.png)
 
 
 ## Sample of Raw Results
